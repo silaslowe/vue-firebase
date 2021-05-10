@@ -1,5 +1,7 @@
 # vue-firebase
 
+Bases on the youtube tutorial: https://www.youtube.com/watch?v=Htt8AKeF1Kw
+
 ## Project setup
 ```
 yarn install
