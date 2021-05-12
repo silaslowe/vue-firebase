@@ -4,12 +4,7 @@ import {ref, onUnmounted} from 'vue'
 
 
 const config = {
-    apiKey: "AIzaSyBWOAgRoEVwp3ITAfANsk6yF0GlUxYGdgs",
-    authDomain: "vue-firebase-a14cf.firebaseapp.com",
-    projectId: "vue-firebase-a14cf",
-    storageBucket: "vue-firebase-a14cf.appspot.com",
-    messagingSenderId: "1020874958908",
-    appId: "1:1020874958908:web:7a29511df6d445ea753b39"
+
   }
 
 const firebaseApp = firebase.initializeApp(config)
